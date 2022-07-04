@@ -1,10 +1,10 @@
 # Setup
 title:               Holbloom
-tagline:             'Holbloom Consulting'
+tagline:             'Consulting'
 description:         'The Holbloom Consulting blog for programming and system internals'
 url:                 https://blog.holbloom.com
 baseurl:             ''
-paginate:            5
+paginate:            10
 permalink:           pretty
 
 # About/contact
