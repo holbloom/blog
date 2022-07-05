@@ -5,7 +5,8 @@ description:         'The Holbloom Consulting blog for programming and system in
 url:                 https://blog.holbloom.com
 baseurl:             ''
 paginate:            10
-permalink:           pretty
+# permalink:           pretty
+permalink: /:categories/:title
 
 # About/contact
 author:
